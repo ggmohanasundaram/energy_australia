@@ -36,4 +36,5 @@
  
  1. pip install -r requirements.txt
  2. python main.py
- 
+
+## Python Version Used - 3.8.2
