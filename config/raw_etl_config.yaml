@@ -1,0 +1,4 @@
+env: development
+raw_input_path:  data/raw/original/Transaction.csv
+error_data_path: data/raw/processed/invalid_raw/errors.csv
+valid_data_path: data/raw/processed/valid_raw/valid_transaction.csv

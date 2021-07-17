@@ -1,0 +1,4 @@
+env: development
+transaction_input_path: data/raw/processed/valid_raw/valid_transaction.csv
+staging_path: data/processed/staging/transaction_events.json
+batch_json_path: data/processed/transactions
